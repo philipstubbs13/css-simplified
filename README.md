@@ -4,3 +4,5 @@
 
 * <https://specificity.keegan.st/>
 * <https://blog.webdevsimplified.com/2020-02/css-specificity/#calculator>
+* <https://www.wide-gamut.com/>
+* <https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide>
