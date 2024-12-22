@@ -6,3 +6,5 @@
 * <https://blog.webdevsimplified.com/2020-02/css-specificity/#calculator>
 * <https://www.wide-gamut.com/>
 * <https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide>
+* <https://oklch.com/#70,0.1,157,100>
+* <https://www.learnwithjason.dev/blog/oklch-better-color-css-browser/>
